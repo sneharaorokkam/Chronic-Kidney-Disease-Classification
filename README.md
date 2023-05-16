@@ -1,9 +1,9 @@
 # Chronic-Kidney-Disease-Classification
 
-% 1. Title: Early stage of Indians Chronic Kidney Disease(CKD)
-%
-% 2. Source Information:
-%   (a) Source: 
+1. Title: Early stage of Indians Chronic Kidney Disease(CKD)
+
+2. Source Information:
+(a) Source: 
 			Dr.P.Soundarapandian.M.D.,D.M
 			(Senior Consultant Nephrologist), 
 			Apollo  Hospitals, 
@@ -13,13 +13,13 @@
 			Tamilnadu,
 			India.
 
-%   (b) Creator: 
+(b) Creator: 
 			L.Jerlin Rubini(Research Scholar)
 			Alagappa University,
 			EmailId   :jel.jerlin@gmail.com
 			ContactNo :+91-9597231281
 
-%   (c) Guided by: 
+(c) Guided by: 
 			Dr.P.Eswaran Assistant Professor,
 			Department of Computer Science and Engineering,
 			Alagappa University,
@@ -28,9 +28,9 @@
 			India.
 			Emailid:eswaranperumal@gmail.com
 
-%   (d) Date     : July 2015
-%
-% 3.Relevant Information:
+(d) Date     : July 2015
+
+3.Relevant Information:
 			age		-	age	
 			bp		-	blood pressure
 			sg		-	specific gravity
@@ -57,11 +57,11 @@
 			ane		-	anemia
 			class		-	class	
 
-% 4.Number of Instances:  400 (250 CKD, 150 notckd)
-%
-% 5.Number of Attributes: 24 + class = 25 ( 11  numeric ,14  nominal) 
-%
-% 6.Attribute Information :
+4.Number of Instances:  400 (250 CKD, 150 notckd)
+
+5.Number of Attributes: 24 + class = 25 ( 11  numeric ,14  nominal) 
+
+6.Attribute Information :
  	1.Age(numerical)
   	  	age in years
  	2.Blood Pressure(numerical)
