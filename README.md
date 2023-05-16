@@ -1,6 +1,6 @@
 # Chronic-Kidney-Disease-Classification
 
-1. Title: Early stage of Indians Chronic Kidney Disease(CKD)
+1.Title: Early stage of Indians Chronic Kidney Disease(CKD)
 
 2.Relevant Information:
 			age		-	age	
