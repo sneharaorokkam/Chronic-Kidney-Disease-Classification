@@ -2,35 +2,7 @@
 
 1. Title: Early stage of Indians Chronic Kidney Disease(CKD)
 
-2. Source Information:
-(a) Source: 
-			Dr.P.Soundarapandian.M.D.,D.M
-			(Senior Consultant Nephrologist), 
-			Apollo  Hospitals, 
-			Managiri,
-			Madurai Main Road, 
-			Karaikudi,
-			Tamilnadu,
-			India.
-
-(b) Creator: 
-			L.Jerlin Rubini(Research Scholar)
-			Alagappa University,
-			EmailId   :jel.jerlin@gmail.com
-			ContactNo :+91-9597231281
-
-(c) Guided by: 
-			Dr.P.Eswaran Assistant Professor,
-			Department of Computer Science and Engineering,
-			Alagappa University,
-			Karaikudi,
-			Tamilnadu,
-			India.
-			Emailid:eswaranperumal@gmail.com
-
-(d) Date     : July 2015
-
-3.Relevant Information:
+2.Relevant Information:
 			age		-	age	
 			bp		-	blood pressure
 			sg		-	specific gravity
@@ -137,9 +109,9 @@
  	25.Class (nominal)		
 		class - (ckd,notckd)
 
-%7. Missing Attribute Values: Yes(Denoted by "?")
-%
-%8. Class Distribution: ( 2 classes)
+7. Missing Attribute Values: Yes(Denoted by "?")
+
+8. Class Distribution: ( 2 classes)
     		Class 	  Number of instances
     		ckd          	  250
     		notckd       	  150   
